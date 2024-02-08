@@ -1,0 +1,16 @@
+17:21:18.567 [main] INFO  Magneto_testcases.Accountpagetest - browser opened
+17:21:23.564 [main] INFO  Magneto_testcases.Accountpagetest - application opened
+17:21:23.614 [main] INFO  Magneto_testcases.Accountpagetest - **** Test 1 Start ******
+17:21:25.846 [main] INFO  Magneto_testcases.Accountpagetest - **** account page opened ******
+17:21:25.867 [main] INFO  Magneto_testcases.Accountpagetest - **** Test pass ******
+17:21:25.867 [main] INFO  Magneto_testcases.Accountpagetest - **** Test End ******
+17:21:25.883 [main] INFO  Magneto_testcases.Accountpagetest - **** Test2 Start ******
+17:21:28.012 [main] INFO  Magneto_testcases.Accountpagetest - **** account page opened ******
+17:21:28.145 [main] INFO  Magneto_testcases.Accountpagetest - **** Test End ******
+17:21:28.151 [main] INFO  Magneto_testcases.Accountpagetest - **** Test3 Start ******
+17:21:30.288 [main] INFO  Magneto_testcases.Accountpagetest - **** account page opened ******
+17:21:30.613 [main] INFO  Magneto_testcases.Accountpagetest - **** errormsg verified ******
+17:21:30.613 [main] INFO  Magneto_testcases.Accountpagetest - **** Test3 end ******
+17:21:30.616 [main] INFO  Magneto_testcases.Accountpagetest - **** Test4 Start ******
+17:21:31.748 [main] INFO  Magneto_testcases.Accountpagetest - **** account page opened ******
+17:21:41.828 [main] INFO  Magneto_testcases.Accountpagetest - **** Test4 end ******
